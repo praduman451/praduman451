@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @praduman451
 - 👀 I’m interested in Programming and Cloud Computing.
 - 🌱 I’m currently pursuing B.Tech in Cloud Computing and Information Security...
-- 💞️ I’m looking for job in softawre company ...
-- 📫 Reach me ... Email_Id- pradumansingh452@gmail.com 
 
 <!---
 praduman451/praduman451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
